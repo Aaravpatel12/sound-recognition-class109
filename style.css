@@ -1,0 +1,33 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background:#03fc98;
+}
+.header_div{
+    background:#5a069e;
+    color:aquamarine
+}
+.header_div p{
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:chocolate;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:crimson;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px #1aeb02;
+}
